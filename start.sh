@@ -1,0 +1,2 @@
+#!/bin/sh
+java -Xbootclasspath/p:/root/.gradle/caches/modules-2/files-2.1/org.mortbay.jetty.alpn/alpn-boot/8.1.7.v20160121/6ac06d2375196ceb981547bcaff56715e3280fce/alpn-boot-8.1.7.v20160121.jar -jar build/libs/http2-poc-0.0.1-SNAPSHOT.jar

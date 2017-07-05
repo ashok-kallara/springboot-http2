@@ -1,0 +1,20 @@
+.gradle
+/build/
+my-tomcat/
+*.log
+!gradle/wrapper/gradle-wrapper.jar
+out/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
